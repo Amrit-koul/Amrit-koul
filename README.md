@@ -19,9 +19,9 @@ I am a B.Tech student specializing in Artificial Intelligence and Data Science a
 
 - 📫 How to reach me:<br>
 <p align = "left">
-<a href="https://www.linkedin.com/in/amrit-koul/" target="_blank" rel="noreferrer"><img align="center" src="images/LinkedIn_Logo.png" alt="https://www.linkedin.com/in/amrit-koul/" height="40" width="45" /></a>
-<a href="https://github.com/Amrit-koul" target="_blank" rel="noreferrer"><img align="center" src="images/GitHub_Logo.png" alt="https://github.com/Amrit-koul" height="40" width="45" /></a>
-<a href="mailto:amritkoul19@gmail.com" target="_blank" rel="noreferrer"><img align="center" src="images/Gmail_icon.png" alt="https://github.com/Amrit-koul" height="40" width="45" /></a>
+<a href="https://www.linkedin.com/in/amrit-koul/" target="_blank" ><img align="center" src="images/LinkedIn_Logo.png" alt="https://www.linkedin.com/in/amrit-koul/" height="40" width="45" /></a>
+<a href="https://github.com/Amrit-koul" target="_blank"><img align="center" src="images/GitHub_Logo.png" alt="https://github.com/Amrit-koul" height="40" width="45" /></a>
+<a href="mailto:amritkoul19@gmail.com" target="_blank"><img align="center" src="images/Gmail_icon.png" alt="https://github.com/Amrit-koul" height="40" width="45" /></a>
 </p>
 <br>
 
