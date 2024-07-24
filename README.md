@@ -18,11 +18,9 @@ I am a B.Tech student specializing in Artificial Intelligence and Data Science a
 - 🌱 I'm continuously learning and expanding my skills in programming languages like Python, JavaScript, and more.
 
 - 📫 How to reach me:<br>
-<p align = "left">
-<a href="https://www.linkedin.com/in/amrit-koul/" target="_blank" rel="noopener noreferrer"><img align="center" src="images/LinkedIn_Logo.png" alt="https://www.linkedin.com/in/amrit-koul/" height="40" width="45" /></a>
-<a href="https://github.com/Amrit-koul" target="_blank" rel="noopener noreferrer"><img align="center" src="images/GitHub_Logo.png" alt="https://github.com/Amrit-koul" height="40" width="45" /></a>
-<a href="mailto:amritkoul19@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="images/Gmail_icon.png" alt="https://github.com/Amrit-koul" height="40" width="45" /></a>
-</p>
+[![LinkedIn](images/LinkedIn_Logo.png)](https://www.linkedin.com/in/amrit-koul/)
+[![GitHub](images/GitHub_Logo.png)](https://github.com/Amrit-koul)
+[![Gmail](images/Gmail_icon.png)](mailto:amritkoul19@gmail.com)
 <br>
 
 *Thank you for visiting my profile! 🤝 Let's connect and collaborate on exciting projects! 🚀*
