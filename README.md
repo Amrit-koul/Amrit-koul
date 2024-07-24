@@ -31,6 +31,6 @@ I am a B.Tech student specializing in Artificial Intelligence and Data Science a
 </p>
 <br>
 
-*Thank you for visiting my profile! 🤝 Let's connect and collaborate on exciting projects! 🚀*
+*Thank you for visiting my profile! 🤝 Let's connect and collaborate on exciting projects!*
 
 
