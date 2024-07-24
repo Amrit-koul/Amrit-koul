@@ -1,13 +1,33 @@
-# Hi, I'm Amrit Koul 
-----
+
+# 👋 Hi, I'm Amrit Koul 
+
+
 ## About Me
-I am a B.Tech student specializing in Artificial Intelligence and Data Science at Dwarkadas J. Sanghvi College of Engineering.
+
+I am a B.Tech student specializing in Artificial Intelligence and Data Science at Dwarkadas J. Sanghvi College of Engineering. I'm eager to learn and leverage AI, data science, and web development to tackle real-world problems.
+
 ----
-- 🌱 I’m currently learning **HTML , CSS , JAVA , JAVASCRIPT , PYTHON**
-- 📫 How to reach me: <br>
-<a href="https://www.linkedin.com/in/amrit-koul/" target="_blank" rel="noreferrer"><img align="center" src="" alt="https://www.linkedin.com/in/amrit-koul/" height="30" width="40" /></a>
-<a href="https://github.com/Amrit-koul" target="_blank" rel="noreferrer"><img align="center" src="" alt="https://github.com/Amrit-koul" height="30" width="40" /></a>
+## Skills
+<details>
+<summary>Skills</summary>
+   <ul>
+   <li>HTML</li>
+   <li>CSS</li>
+    <li>JAVA</li>
+   </ul>
+</details>
+
+- 🌱 I’m currently learning **JAVASCRIPT , PYTHON , SQL**
+
+- 📫 How to reach me:<br>
+<p align = "left">
+<a href="https://www.linkedin.com/in/amrit-koul/" target="_blank" rel="noreferrer"><img align="center" src="images/LinkedIn_Logo.png" alt="https://www.linkedin.com/in/amrit-koul/" height="40" width="45" /></a>
+<a href="https://github.com/Amrit-koul" target="_blank" rel="noreferrer"><img align="center" src="images/GitHub_Logo.png" alt="https://github.com/Amrit-koul" height="40" width="45" /></a>
+<a href="mailto:amritkoul19@gmail.com" target="_blank" rel="noreferrer"><img align="center" src="images/Gmail_icon.png" alt="https://github.com/Amrit-koul" height="40" width="45" /></a>
 </p>
+<br>
+
+*Feel free to explore my repositories and connect with me on GitHub. Let's collaborate and create something amazing!*
 
 
 <!--
