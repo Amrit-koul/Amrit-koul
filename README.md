@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a B.Tech student specializing in Artificial Intelligence and Data Science at Dwarkadas J. Sanghvi College of Engineering. I'm eager to learn and leverage AI, data science, and web development to tackle real-world problems.
+I am a B.Tech student specializing in Artificial Intelligence and Data Science at Dwarkadas J. Sanghvi College of Engineering. I'm eager to learn and leverage AI, Machine Learning, and web development to tackle real-world problems.
 
 ----
 ## 🔧 Technologies & Tools
@@ -15,7 +15,7 @@ I am a B.Tech student specializing in Artificial Intelligence and Data Science a
 
 ----
 
-- 🌱 I'm continuously learning and expanding my skills in programming languages like Python, JavaScript, and more.
+- 🌱 I'm continuously learning and expanding my skills in Machine learning, Deep Learning and more.
 
 - 📫 How to reach me:<br>
 <p align="left">
