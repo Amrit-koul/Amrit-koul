@@ -11,15 +11,15 @@
 ## ☁️ about me
 
 ```yaml
-name: amrit
+name: Amrit Koul
 pronouns: she/her
 current_role: AI Intern @ Bridgeit
 previous: AI Software Engineering Intern @ Bonzai
 interests:
-  - generative ai ✨
-  - large language models 🤖
-  - agentic systems 🌸
-  - understanding how things work internally 💭
+  - Generative ai ✨
+  - LLMs🤖
+  - Agentic systems 🌸
+  - Understanding how things work internally 💭
 mindset: beyond usage → deep understanding
 ```
 
@@ -43,12 +43,12 @@ mindset: beyond usage → deep understanding
 <td width="50%">
 
 ### 🎀 exploring
-- **advanced retrieval techniques**  
-  `query decomposition` `adaptive retrieval` `context compression`
-- **production llm systems**  
-  `reliability patterns` `structured outputs` `failure handling`
-- **model optimization**  
-  `efficient inference` `quantization` `distillation`
+- **agentic & multi-agent systems**  
+  `planning` `memory` `workflow orchestration`
+- **explainable ai (xai)**  
+  `attribution` `reasoning traces` `model transparency`
+- **deep learning & genai research**  
+  `model architectures` `multimodal learning` `llms`
 
 </td>
 </tr>
