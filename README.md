@@ -20,7 +20,6 @@ interests:
   - LLMs🤖
   - Agentic systems 🌸
   - Understanding how things work internally 💭
-mindset: beyond usage → deep understanding
 ```
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
