@@ -13,8 +13,8 @@
 ```yaml
 name: Amrit Koul
 pronouns: she/her
-current_role: AI Intern @ Bridgeit
-previous: AI Software Engineering Intern @ Bonzai
+current_role: AI Intern @ EY
+previous: AI Intern @ Bridge-it @ Bonzai
 interests:
   - Generative ai ✨
   - LLMs🤖
